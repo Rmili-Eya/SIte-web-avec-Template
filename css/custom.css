@@ -333,7 +333,7 @@ h2 {
 	margin-top: 30px;
 }
 .product-sec .heading {
-	color: #5ba600;
+	color: #ED4C67;
 	font-size: 24px;
 	font-weight: 700;
 	margin-bottom: 10px;
@@ -354,7 +354,6 @@ h2 {
 /* -----------About Sec---------- */
 
 .about-sec {
-	background: url(../img/about.jpg) no-repeat 0 -236px;
 	background-size: cover;
 	float: left;
 	width: 100%;
@@ -373,7 +372,7 @@ h2 {
 	padding: 0 20px;
 }
 .about-sec h3 {
-	color: #5BA600;
+	color:#ED4C67 ;
 	font-size: 27px;
 	text-transform: uppercase;
 	margin-bottom: 30px;
@@ -406,7 +405,7 @@ h2 {
 	padding-left: 20px
 }
 .about-sec ul li::before {
-	background: #5BA600 none repeat scroll 0 0;
+	background:#ED4C67 none repeat scroll 0 0;
 	content: "";
 	height: 10px;
 	left: 0;
